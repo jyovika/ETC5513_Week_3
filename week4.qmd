@@ -3,6 +3,9 @@ title: "Learning to reference figures, tables and sections"
 author: Write your name
 format: html
 editor: visual
+echo: false
+    warning: false
+    message: false
 ---
 
 ## Quarto
